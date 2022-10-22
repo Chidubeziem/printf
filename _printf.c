@@ -4,8 +4,8 @@ Pull requests
 Issues
 Marketplace
 Explore
- 
-@Chidubeziem 
+
+@Chidubeziem
 Precious-Xploit
 /
 printf
@@ -108,7 +108,6 @@ int _printf(const char *format, ...)
  */
 
 void print_buffer(char buffer[], int *buff_ind)
-
 {
 	if (*buff_ind > 0)
 
